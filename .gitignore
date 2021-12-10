@@ -1,7 +1,16 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.__pycache__/
+.__pycache__
 *.py[cod]
 *$py.class
+
+#Add Ons
+module_notes/
+.virtual_documents/
+.ipynb_checkpoints/
+/module_notes
+/.ipynb_checkpoints
 
 # C extensions
 *.so
