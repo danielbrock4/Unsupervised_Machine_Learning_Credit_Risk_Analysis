@@ -12,6 +12,9 @@ module_notes/
 /module_notes
 /.ipynb_checkpoints
 
+resources/
+/resources
+
 # C extensions
 *.so
 
